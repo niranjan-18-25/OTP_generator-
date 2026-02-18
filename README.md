@@ -74,6 +74,11 @@ User input handling
 
 Basic authentication logic
 
+👥 Team Members
+
+Niranjan H N
+Dinesh Choudary
+
 👨‍💻 Author
 
 Created as a beginner-friendly Python project to understand loops and conditional logic.
